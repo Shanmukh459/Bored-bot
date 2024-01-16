@@ -1,21 +1,21 @@
-# co5284485a2c0597354fcbae5
+# Bored Bot
 
-Quick start:
+- This is a simple application which can provide suggestions on what to do when you are bored
+- Worked on this project to practice my skills on handling APIs/ Request-Response
+- Clicking on the button will fetch a new activity behind the scenes and updates the UI dynamically
 
-```
-$ npm install
-$ npm start
-````
+### Tech Used
 
-Head over to https://vitejs.dev/ to learn more about using vite
-## About Scrimba
+- HTML
+- CSS
+- JavaScript
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+### Deployed at
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+- 
+
+### Screenshots
+
+- 
 
 Happy Coding!
