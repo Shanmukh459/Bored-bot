@@ -1,9 +1,10 @@
-body {
+main {
     /* uigradients.com */
     background: #bdc3c7;  /* fallback for old browsers */
     background: -webkit-linear-gradient(to top, #2c3e50, #bdc3c7);  /* Chrome 10-25, Safari 5.1-6 */
     /* background: linear-gradient(to bottom, #00B4DB, #ED213A);  */
-    background: linear-gradient(to bottom, #8A2387, #E94057, #F27121); 
+    /* background: linear-gradient(to bottom, #8A2387, #E94057, #F27121);  */
+    background: grey;
     background-repeat: no-repeat;
     height: 100vh;
     display: flex;
