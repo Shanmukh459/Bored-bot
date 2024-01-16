@@ -18,7 +18,8 @@
 
 #### ___Initial screen___
 
-![image](https://github.com/Shanmukh459/Bored-bot/assets/52078988/ed0649f0-4a17-4121-a864-188b8601371c)
+![image](https://github.com/Shanmukh459/Bored-bot/assets/52078988/30233edc-3a25-4232-a3ac-422ddc6e4ec8)
+
 
 #### ___After the suggestion___
 
