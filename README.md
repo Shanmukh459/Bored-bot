@@ -16,6 +16,13 @@
 
 ### Screenshots
 
-- 
+#### ___Initial screen___
+
+![image](https://github.com/Shanmukh459/Bored-bot/assets/52078988/ed0649f0-4a17-4121-a864-188b8601371c)
+
+#### ___After the suggestion___
+
+![image](https://github.com/Shanmukh459/Bored-bot/assets/52078988/ce6eb6a1-172b-4cd9-949a-d69b865032d5)
+
 
 Happy Coding!
