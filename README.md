@@ -12,7 +12,7 @@
 
 ### Deployed at
 
-- 
+- https://shanmukh-bored-bot.vercel.app/
 
 ### Screenshots
 
