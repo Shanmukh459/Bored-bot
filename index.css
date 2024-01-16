@@ -1,0 +1,34 @@
+body {
+    /* uigradients.com */
+    background: #bdc3c7;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to top, #2c3e50, #bdc3c7);  /* Chrome 10-25, Safari 5.1-6 */
+    /* background: linear-gradient(to bottom, #00B4DB, #ED213A);  */
+    background: linear-gradient(to bottom, #8A2387, #E94057, #F27121); 
+    background-repeat: no-repeat;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: Oxygen, sans-serif;
+    justify-content: center;
+    color: antiquewhite
+}
+
+button {
+    border-radius: 50%;
+    height: 80px;
+    width: 80px;
+    background-color:antiquewhite;
+    border: none;
+    cursor: pointer;
+    padding: 0.5rem;
+    box-sizing: border-box;
+    color: #E32207;
+    font-weight: 700;
+    font-size: 1.25rem;
+    margin-top: 2rem;
+}
+
+#activity {
+    text-align: center;
+}
